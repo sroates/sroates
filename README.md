@@ -1,11 +1,7 @@
-Here’s a personalized README for your GitHub page based on the insights from your resume:
-
----
-
-# Hi, I'm Samuel Oates 👋  
+# Hi, I'm Sam 👋  
 
 ## 👨‍💻 About Me  
-I'm currently a **Computer Science student** at the University of Maryland, College Park, with a minor in **Spanish Literature, Linguistics, and Culture**. I enjoy combining my love for technology and learning with real-world challenges and have worked across multiple disciplines—from **machine learning** to **web development**. Expected to graduate in **May 2025**, I’m actively pursuing roles where I can continue applying **data-driven solutions** and **software development practices**.
+I'm currently studying **Computer Science** at the University of Maryland, College Park, with a minor in **Spanish Literature, Linguistics, and Culture**. I enjoy combining my love for technology and learning with real-world challenges. Expected to graduate in **May 2025**.
 
 ## 🚀 Projects & Experience  
 ### 🔍 **Analyzing Global Happiness with Machine Learning**  
@@ -27,24 +23,21 @@ During my time at PrimePay, I designed **ETL data pipelines** using **Microsoft 
 
 ## 📚 Coursework  
 I’ve taken key Computer Science courses such as:  
-- **Algorithms**, **Data Structures**, and **Web Development**  
-- **Data Science**, **Compilers**, and **Network Security**  
-- **Probability & Statistics** and **Linear Algebra**
+- **Algorithms**, **Data Structures**, and **Object-Oriented Programming**  
+- **Web Development**, **Data Science**, and **Compilers**  
+- **Network Security**, **Probability & Statistics**, and **Linear Algebra**  
 
 These courses have given me a solid foundation in solving complex problems, designing efficient algorithms, and developing applications.
 
 ## 🌍 A Little More About Me  
-When I’m not coding, I enjoy **painting and drawing**, a passion I’ve cultivated for over a decade. I also love **learning languages** and immersing myself in different cultures, which is reflected in my minor in Spanish.  
+When I’m not coding, I enjoy **painting and drawing**, a passion I've enjoyed for over a decade. I also love **learning languages** and immersing myself in different cultures, which is reflected in my minor in Spanish.  
 
 ## 📫 Get in Touch  
 - **Email**: samuelroates@gmail.com  
 - **LinkedIn**: [linkedin.com/in/samuelroates](https://linkedin.com/in/samuelroates)  
 
-Feel free to explore my repositories and projects! I’m always open to collaboration and excited to connect with other developers and data enthusiasts.  
+Feel free to explore my repositories and projects! I’m always open to collaboration and excited to connect with other developers.
 
----
-
-This version goes beyond the resume by providing personal context and storytelling while staying professional. Let me know if you'd like to tweak anything!
 <!--
 **sroates/sroates** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
