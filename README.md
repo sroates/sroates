@@ -1,6 +1,6 @@
 # Hi, I'm Sam 👋  
 
-👨‍💻 About Me  
+## 👨‍💻 About Me  
 I'm currently studying **Computer Science** at the University of Maryland, College Park, with a minor in **Spanish Literature, Linguistics, and Culture**. Expected to graduate in **May 2025**.
 <!--
 ## 🚀 Projects & Experience  
