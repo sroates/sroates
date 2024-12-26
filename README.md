@@ -1,8 +1,8 @@
 # Hi, I'm Sam 👋  
 <!--
-## 👨‍💻 About Me  
-I'm currently studying **Computer Science** at the University of Maryland, College Park, with a minor in **Spanish Literature, Linguistics, and Culture**. I enjoy combining my love for technology and learning with real-world challenges. Expected to graduate in **May 2025**.
-
+👨‍💻 About Me  
+I'm currently studying **Computer Science** at the University of Maryland, College Park, with a minor in **Spanish Literature, Linguistics, and Culture**. Expected to graduate in **May 2025**.
+##
 ## 🚀 Projects & Experience  
 ### 🔍 **Analyzing Global Happiness with Machine Learning**  
 In this project, I used **Python** to explore how factors such as GDP, education, and social support contribute to happiness worldwide. I performed **EDA (Exploratory Data Analysis)** with tools like **seaborn** and **matplotlib**, and applied **Linear Regression** and **Random Forest models** to predict happiness scores. This project was a great experience blending **data science** with machine learning to generate meaningful insights.
